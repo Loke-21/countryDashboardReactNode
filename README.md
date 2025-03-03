@@ -19,7 +19,7 @@ This project is a web application that retrieves and displays country data from 
 1.  **Clone the repository:**
 
     ```
-    git clone https://github.com/Loke-21/reactnode-hub.git
+    git clone https://github.com/Loke-21/countryDashboardReactNode.git
     cd <your-repository-name>
     ```
 
